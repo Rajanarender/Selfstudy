@@ -53,7 +53,6 @@ int main() //Only public members/public inherited can be accessed here strictly
 	ptr->z=12; //private member
 }
 */
-// comment
 
 class Base
 {
